@@ -1,4 +1,4 @@
-# Hi 
+# Self introduction
 
 I'm Tatsuki Odake, a PhD student in the Department of Physics at the University of Tokyo, supervised by Prof. Mio Murao.
 
